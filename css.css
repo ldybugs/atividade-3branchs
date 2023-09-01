@@ -6,3 +6,21 @@ body{
     background-color: #FFDBE8;
     color: #325B84;
 }
+
+.imgsteven{
+    width: 190px;
+}
+
+.imgperola{
+    width: 140px;
+}
+
+.imggarnet{
+    width: 150px;
+    padding-left: 30px;
+}
+
+.imgametista{
+    width: 200px;
+    padding-left: 30px;
+}
